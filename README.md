@@ -1,1 +1,1 @@
-# SENAI-AutoTech
+# SENAI-TotemTech
